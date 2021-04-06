@@ -1,0 +1,10 @@
+com/globalmoney/api/compliance/GlobalmoneyComplianceApplication.java
+ com.globalmoney.api.compliance.GlobalmoneyComplianceApplication
+com/globalmoney/api/compliance/service/impl/AccountServiceImpl.java
+ com.globalmoney.api.compliance.service.impl.AccountServiceImpl
+com/globalmoney/api/compliance/service/AccountService.java
+ com.globalmoney.api.compliance.service.AccountService
+com/globalmoney/api/compliance/controller/ComplianceController.java
+ com.globalmoney.api.compliance.controller.ComplianceController
+com/globalmoney/api/compliance/config/SpringFoxConfig.java
+ com.globalmoney.api.compliance.config.SpringFoxConfig

@@ -1,0 +1,19 @@
+server:
+  port: 9091
+  servlet:
+    context-path: /globalmoney-compliance
+
+# Swagger Configuration
+swagger:
+  enable: true
+
+#Actuator Configuration
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+  endpoint:
+    health:
+      show-details: always
+

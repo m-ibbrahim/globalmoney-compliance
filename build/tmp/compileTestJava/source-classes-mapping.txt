@@ -1,0 +1,2 @@
+com/globalmoney/api/compliance/GlobalmoneyComplianceApplicationTests.java
+ com.globalmoney.api.compliance.GlobalmoneyComplianceApplicationTests
